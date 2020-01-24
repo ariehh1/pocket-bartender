@@ -1,4 +1,4 @@
-# Pocket Bartender
+# [Pocket Bartender](https://ariehh1.github.io/pocket-bartender/)
 
 > We've created an App that does 3 main things. First it keeps track of what is in your real life liquor cabinet, you can add new items, and when you run out, you can remove them. Next, it can be used to get cool drink recipes to make with your liquor cabinet, or get inspired what to add to your cabinet next based on the suggestions. Finally, for those conscious of what they are consuming, we have a calorie counter to help users make decisions about which recipes to follow.
 
